@@ -7,7 +7,8 @@ Az itt közzétett feladatok a Budapesti Műszaki és Gazdaságtudományi Egyete
 
 Minden mappában egy kidolgozott feladat szerepel, melyet a `.html` kiterjesztésű fájl megnyitásával lehet megtekinteni. A programkódot szerkeszteni és futtatni a `.ipynb` fájl használatával lehet (Anaconda Navigator segítségével megnyitva, lsd. telepítési útmutató). Az esetleges animációk, interaktív felületek csak a `.ipynb` fájl megnyitása esetén működőképesek. A `.pdf` kiterjeszésű fájl a telefonon történő olvasást teszi lehetővé, ám az csupán tájékoztató jellegű, abban megjelenítési hibák előfordulhatnak. 
 
-Az elkészült feladatokat alkalomról-alkalomra közzétesszük ezen a felületen az élő adás felvételét tartalmazó YouTube linkkel együtt (az adott kidolgozás elején feltüntetve).
+Az elkészült feladatokat alkalomról-alkalomra közzétesszük ezen a felületen. Az élő adások felvételei a YouTube csatornánkon megtekinthetők: 
+https://www.youtube.com/channel/UCWvvDWAUFKpp04Jsr-mGGgA/featured
 
 **Fontos:**
 a <img src="./CodeButton.png" width="80"/> gombra való kattintás után a `Download ZIP` kiválasztásával kell letölteni, majd megnyitni a fájlokat. Közvetlenül a GitHubon megnyitva nem lesz megfelelő a megjelenítés.
