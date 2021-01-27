@@ -11,7 +11,7 @@ Az elkészült feladatokat alkalomról-alkalomra közzétesszük ezen a felület
 https://www.youtube.com/channel/UCWvvDWAUFKpp04Jsr-mGGgA/featured
 
 **Fontos:**
-a <img src="./CodeButton.png" width="80"/> gombra való kattintás után a `Download ZIP` kiválasztásával kell letölteni, majd megnyitni a fájlokat. Közvetlenül a GitHubon megnyitva nem lesz megfelelő a megjelenítés.
+a <img src="./Assets/CodeButton.png" width="80"/> gombra való kattintás után a `Download ZIP` kiválasztásával kell letölteni, majd megnyitni a fájlokat. Közvetlenül a GitHubon megnyitva nem lesz megfelelő a megjelenítés.
 
 Reméljük ezzel a segédlettel elősegítjük a Dinamika tananyagának mélyebb megértését, valamit kedvet kaptok a jövőbeni mérnöki feladataitok során felmerülő problémák Pythonban törénő megoldásához.
 
