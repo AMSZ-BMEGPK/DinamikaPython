@@ -1,4 +1,4 @@
-# Python segédlet dinamikai pédákon keresztül
+# Python segédlet dinamikai példákon keresztül
 A BME Gépészmérnöki karán a Műszaki Mechanikai Tanszék által oktatott Dinamika c. tárgy (2020/21/1) néhány feladata kidolgozva Python nyelven.
 
 Kedves Hallgatók és Érdeklődők!
